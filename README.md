@@ -4,7 +4,7 @@
 **Download**
 
 ```
-$ git clone https://github.com/Br3akLock/port_scanner.git 
+$ git clone https://github.com/Br3akLock/port_scanner.git
 ```
 
 **Install**
